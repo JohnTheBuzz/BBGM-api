@@ -1,3 +1,14 @@
+# Commands website-drag-drop
+* start application on local host (react project) `npm run start`
+* build application `npm run build`
+* starts server `npm run server`
+* testing `npm run test`
+* Kill all node processes `npm run shutdown`
+# Commands tutorial
+
+* run file called file.js `node file.js`
+
+
 # Prerequisite
 * [Bash terminal](https://gitforwindows.org/), or equivalent 
 * Ensure [NodeJS](https://nodejs.org/en/) is installed
